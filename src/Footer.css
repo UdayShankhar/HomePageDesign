@@ -1,0 +1,45 @@
+.verticalLine {
+  width: 20px;
+  height: 60px;
+  background-color: white;
+}
+
+.footersublinks {
+  font-size: 15px;
+  font-weight: 200;
+}
+
+.footerOfficeAddress {
+  font-size: 12px;
+  font-weight: 200;
+}
+
+.line {
+  width: 100vw;
+  height: 0.8px;
+  background-color: whitesmoke;
+}
+
+#aboutHelpPolicy,
+#addressDetails {
+  height: 300px;
+  padding: 6rem;
+}
+
+@media screen and (max-width: 480px) {
+  #aboutHelpPolicy {
+    height: 300px;
+    margin-top: 2rem;
+    padding: 0;
+  }
+
+  #addressDetails{
+    height: 300px;
+    padding: 0;
+    margin-left: 4rem;
+  }
+
+  .officeAddress{
+    max-width: 99%;
+  }
+}

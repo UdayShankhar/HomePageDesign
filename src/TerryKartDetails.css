@@ -1,0 +1,9 @@
+#mainContainer{
+    padding: 4rem;
+}
+
+@media screen and (max-width:480px) {
+    #mainContainer{
+        padding: 1rem !important;
+    }
+}

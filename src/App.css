@@ -1,0 +1,22 @@
+.ItemsArray1Img {
+  max-width: 80%;
+}
+.color {
+  height: 100px;
+  background-color: black;
+}
+
+#navbartext {
+  font-size: 12px !important;
+}
+
+.companyHeading{
+  font-size: 14px;
+  color: #828282;
+  font-weight: 600;
+}
+
+.companyDescription{
+  font-size: 13px;
+  text-indent: 58px;
+}
